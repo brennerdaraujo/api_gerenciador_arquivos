@@ -1,1 +1,4 @@
-https://documenter.getpostman.com/view/8128173/TVsrG9Qz
+    - Ao baixar o repositorio, instalar as dependências.
+    - A estrutura das tabelas está no arquivo tables.ddl dentro da pasta ddls (foi usado o mysql)
+    - As configurações do banco de dados estão no arquivo knexfile.js
+    - Os exemplos de uso da api estão em: https://documenter.getpostman.com/view/8128173/TVsrG9Qz
